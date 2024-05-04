@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51565778510",
+    "project_id": "login-dff3a",
+    "storage_bucket": "login-dff3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51565778510:android:58f3cb04a62287d496551f",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbQCG4qJ82NkXL8bUCdVHNrbYkJ1Z9BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
